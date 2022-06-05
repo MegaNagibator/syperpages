@@ -156,3 +156,6 @@ aside {
 .button:hover::after {
     content: "💞️";
 }
+h1:hover {
+    font-size: 40px;
+}
