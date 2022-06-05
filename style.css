@@ -162,3 +162,16 @@ h1:hover::before {
 h1:hover::after {
     content: "👇";
 }
+.strela {
+    width: 130px;
+    position: relative;
+    top: 30px;
+    left: 600px;
+}
+.promo {
+    color: white;
+    font-size: 23px;
+    position: relative;
+    top: 0px;
+    left: 480px;
+}
