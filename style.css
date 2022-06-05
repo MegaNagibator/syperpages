@@ -145,10 +145,10 @@ h1::after {
 }
 aside {
     background-color: lightskyblue;
-    width: 120px;
+    width: 100px;
     position: relative;
-    top: 10px;
-    float: right;
+    top: 70px;
+    float: left;
 }
 .button:hover::before {
     content: "💞️";
@@ -166,12 +166,12 @@ h1:hover::after {
     width: 130px;
     position: relative;
     top: 30px;
-    left: 600px;
+    float: left;
 }
 .promo {
     color: white;
     font-size: 23px;
     position: relative;
     top: 0px;
-    left: 480px;
+    float: left;
 }
